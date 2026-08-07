@@ -287,7 +287,7 @@ See:
 * [RDF Schema (RDFS) 1.1](https://www.w3.org/TR/rdf-schema/) - A data-modelling RDF vocabulary used for defining RDF vocabularies.
 * [Schema.org Schemas](https://schema.org/docs/full.html) -
 * [SKOS (Simple Knowledge Organization System)](https://www.w3.org/TR/skos-reference/) - An RDF vocabulary for representing semi-formal knowledge organization systems (KOSs), such as thesauri, taxonomies, classification schemes and subject heading lists.
-* * [SOA-to-Agentic AI Terminology Mapping](https://github.com/Skan-dot-ai/soa-to-agentic-terms) - Twenty-eight Service-Oriented Architecture terms paired with their agentic AI equivalents, published as JSON and CSV under CC-BY with a DOI.
+* [SOA-to-Agentic AI Terminology Mapping](https://github.com/Skan-dot-ai/soa-to-agentic-terms) - Twenty-eight Service-Oriented Architecture terms paired with their agentic AI equivalents, published as JSON and CSV under CC-BY with a DOI.
 
 ## Alignment & Matching
 
