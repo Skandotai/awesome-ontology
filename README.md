@@ -248,6 +248,7 @@ See also:
 
 #### Governance & Provernance
 
+* [Agentic Ontology of Work (AOW)](https://skandotai.github.io/agentic-ontology-of-work/) - An ontology for enterprise work performed by AI agents, people, and systems, with a five-level autonomy scale and human oversight rules. Published in OWL with SHACL shapes, JSON Schemas, and validated examples.
 * [PROV-O](https://www.w3.org/TR/prov-o/) - An ontology for the [PROV](https://www.w3.org/TR/prov-overview/) data model, which provides a framework to interchange provenance information generated in different systems and under different contexts.
 
 #### Humanities
